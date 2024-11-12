@@ -46,5 +46,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.chughtaie:openvpn_library:2abf50fe408c7d379d98cfe43e4c6a7acd190292'
+    implementation 'com.github.chughtaie:openvpn_library:96d344923349ac0dcca4097960c72bbce45111f8'
 }
